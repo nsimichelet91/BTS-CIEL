@@ -1,5 +1,3 @@
-# Bienvenue !
-
 ### Ce site contient deux sections principales :
 
 - 📘 [Documentation C](docs/documentations_c.md)
