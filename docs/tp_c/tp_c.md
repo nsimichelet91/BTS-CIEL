@@ -1,3 +1,3 @@
 # TP langage C
 
-- 📘 [TP01](tp01.md){blank}
+- 📘 [TP01](tp01/tp01.md){blank}
